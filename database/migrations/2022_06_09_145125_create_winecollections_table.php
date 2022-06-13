@@ -15,6 +15,19 @@ return new class extends Migration
     {
         Schema::create('winecollections', function (Blueprint $table) {
             $table->id();
+            $table->string('description');
+            $table->string('type');
+            $table->string('color');
+            $table->string('country');
+            $table->string('region');
+            $table->string('varietal');
+            $table->integer('vintage');
+            $table->string('maker');
+            $table->string('foodsuggestion');
+            $table->integer('sugarcontent');
+            $table->string('emmastory');
+            $table->integer('stars');
+            $table->string('picture');
             $table->timestamps();
         });
     }
