@@ -7,13 +7,68 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-$font-stack: Helvetica, sans-serif;
+$font-stack: 'Inter', sans-serif;
 $primary-color: #333;
-$background-color: rgb(193, 247, 229);
+$background-color: rgb(255, 255, 255);
  
 body {
-font: 100% $font-stack;
-color: $primary-color;
-background-color: $background-color;
+    font: 100% $font-stack;
+    color: $primary-color;
+    background-color: $background-color;
 }
 
+.headerlogo {
+    width: 80%;
+    margin: auto;
+    display: block;
+}
+
+.headertext1 {
+    font-family: 'Fredericka the Great';
+    font-size: 50px;
+    text-align: center;
+}
+
+.headertext2 {
+    font-family: 'Fredericka the Great';
+    font-size: 20px;
+    text-align: center;
+}
+
+.emmalink {
+    text-decoration: none;
+    color:#D31E29;
+}
+
+.headerabove {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.headerbelow {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.winefont {
+    color: #D31E29;
+}
+
+.sparklingwinefont {
+    color: #D1C55A;
+}
+
+.spiritsfont {
+    color: #C27418;
+}
+
+.searchfields {
+    padding-top: 30px;
+}
+
+.formlabelcolor {
+    color: grey;
+}
