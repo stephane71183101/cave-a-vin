@@ -10332,3 +10332,11 @@ body {
 .formlabelcolor {
   color: grey;
 }
+
+.searchResultline2 {
+  color: gray;
+}
+
+.searchResults {
+  padding-top: 40px;
+}
