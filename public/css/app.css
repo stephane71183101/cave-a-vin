@@ -10272,7 +10272,97 @@ textarea.form-control-lg {
   }
 }
 body {
-  font: 100% Helvetica, sans-serif;
+  font: 100% "Inter", sans-serif;
   color: #333;
-  background-color: rgb(193, 247, 229);
+  background-color: rgb(255, 255, 255);
+}
+
+.headerlogo {
+  width: 80%;
+  margin: auto;
+  display: block;
+}
+
+.headertext1 {
+  font-family: "Fredericka the Great";
+  font-size: 50px;
+  text-align: center;
+}
+
+.headertext2 {
+  font-family: "Fredericka the Great";
+  font-size: 20px;
+  text-align: center;
+}
+
+.emmalink {
+  text-decoration: none;
+}
+
+.footerlinks {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.headerabove {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.headerbelow {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+.headerabovecontent {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.winefont {
+  color: #D31E29;
+}
+
+.sparklingwinefont {
+  color: #D1C55A;
+}
+
+.spiritsfont {
+  color: #C27418;
+}
+
+.searchfields {
+  padding-top: 30px;
+}
+
+.formlabelcolor {
+  color: grey;
+}
+
+.searchResultline1 {
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+
+.searchResultline2 {
+  font-size: 13px;
+  color: gray;
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+
+.searchResults {
+  padding-top: 40px;
+}
+
+.footer {
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Fredericka the Great";
+  font-size: medium;
+  text-align: center;
 }
