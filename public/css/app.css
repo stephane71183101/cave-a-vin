@@ -10297,7 +10297,11 @@ body {
 
 .emmalink {
   text-decoration: none;
-  color: #D31E29;
+}
+
+.footerlinks {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
 }
 
 .headerabove {
@@ -10311,6 +10315,11 @@ body {
   font-family: "Inter", sans-serif;
   font-size: 25px;
   text-align: center;
+}
+
+.headerabovecontent {
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .winefont {
@@ -10339,4 +10348,13 @@ body {
 
 .searchResults {
   padding-top: 40px;
+}
+
+.footer {
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Fredericka the Great";
+  font-size: medium;
+  text-align: center;
 }

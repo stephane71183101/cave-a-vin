@@ -13,34 +13,34 @@
 </head>
 <body>
     <header>
-            <div class="container">
-                <div class="row headerabove">
-                    <div class="col-md-4">
-                        <a href="#">
-                            <img src="/img/cave-a-vin_logo.png" class="headerlogo" alt="Logo" width="200">
-                        </a>
-                    </div>
-                    <div class="col-md-8">
-                        <p class="headertext1">La cave à vin d'Emma&nbsp;B.</p>
-                        <div class="row headertext2">
-                            <div class="col-md-8"></div>
-                            <div class="col-md-4"><a class="emmalink" href="#">Über Emma</a></div>
-                        </div>
-                    </div>
+        <div class="container">
+            <div class="row headerabove">
+                <div class="col-md-4">
+                    <a href="#">
+                        <img src="/img/cave-a-vin_logo.png" class="headerlogo" alt="Logo" width="200">
+                    </a>
                 </div>
-                <div class="row headerbelow">
-                    <div class="col-md-4">
-                        <p class="winefont">WEIN</p>
-                    </div>
-                    <div class="col-md-4">
-                        <p class="sparklingwinefont">SCHAUMWEIN</p>
-                    </div>                    
-                    <div class="col-md-4">
-                        <p class="spiritsfont">SPIRITUOSEN</p>
-                    </div>
+                <div class="col-md-8">
+                    <p class="headertext1">La cave à vin d'Emma&nbsp;B.</p>
+                    <div class="row headertext2">
+                        <div class="col-md-8"></div>
+                        <div class="col-md-4"><a class="emmalink" href="#">Über Emma</a></div>
                     </div>
                 </div>
             </div>
+            <div class="row headerbelow">
+                <div class="col-md-4">
+                    <p class="winefont headerabovecontent">WEIN</p>
+                </div>
+                <div class="col-md-4 border-start border-end border-dark border-2">
+                    <p class="sparklingwinefont headerabovecontent">SCHAUMWEIN</p>
+                </div>                    
+                <div class="col-md-4">
+                    <p class="spiritsfont headerabovecontent">SPIRITUOSEN</p>
+                </div>
+                </div>
+            </div>
+        </div>
     </header>
     <main>
         <div class="searchfields">
@@ -308,6 +308,18 @@
     </main>
 
     <footer>
+        
+    <div class="footer container border-top border-dark border-2">
+        <div class="row">
+            <div class="col-md-6">
+                <p class="headerabovecontent">WEIN</p>
+        </div>
+        <div class="col-md-6">
+            <p class="headerabovecontent">SCHAUMWEIN</p>
+        </div>                    
+        </div>
+    </div>
+
     </footer>
 </body>
 </html>
