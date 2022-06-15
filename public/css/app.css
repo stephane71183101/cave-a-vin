@@ -10342,8 +10342,16 @@ body {
   color: grey;
 }
 
+.searchResultline1 {
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+
 .searchResultline2 {
+  font-size: 13px;
   color: gray;
+  padding-top: 0px;
+  padding-bottom: 20px;
 }
 
 .searchResults {

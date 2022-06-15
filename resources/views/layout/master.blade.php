@@ -164,6 +164,7 @@
                                 <option>0-1 g/L</option>
                                 <option>1-2 g/L</option>
                                 <option>2-3 g/L</option>
+                                <option>&nbsp;>3 g/L</option>
                                 </select>
                                 </div>
                             </div>
