@@ -10,7 +10,7 @@
 $font-stack: 'Inter', sans-serif;
 $primary-color: #333;
 $background-color: rgb(255, 255, 255);
- 
+
 body {
     font: 100% $font-stack;
     color: $primary-color;
@@ -37,6 +37,7 @@ body {
 
 .emmalink {
     text-decoration: none;
+    color: #D31E29;
 }
 
 .footerlinks {
@@ -57,10 +58,24 @@ body {
     text-align: center;
 }
 
-.headerabovecontent {
+.headerabovecontent1 {
     margin-top: 8px;
     margin-bottom: 8px;
+    color: #D31E29;
 }
+
+.headerabovecontent2 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #D1C55A;
+}
+
+.headerabovecontent3 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #C27418;
+}
+
 
 .winefont {
     color: #D31E29;
@@ -82,16 +97,27 @@ body {
     color: grey;
 }
 
-.searchResultline1{
+.searchResultline1 {
     padding-top: 20px;
     margin-bottom: 10px;
 }
 
-.searchResultline2{
+.searchResultline2 {
     font-size: 13px;
     color: gray;
     padding-top: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
+}
+
+.searchResultline3 {
+    font-size: 18px;
+    color: #D31E29;
+
+}
+
+.stars {
+    width: 100px;
+    padding-bottom: 30px;
 }
 
 .searchResults {
@@ -106,3 +132,19 @@ body {
     font-size: medium;
     text-align: center;
 }
+
+/* Anfang CSS Nina */
+
+.eStory {
+    color: #D31E29;
+}
+
+//.storyb {
+//   color: #D31E29;
+//}
+
+.productPage {
+    padding-top: 50px;
+}
+
+/* Ende CSS Nina */
