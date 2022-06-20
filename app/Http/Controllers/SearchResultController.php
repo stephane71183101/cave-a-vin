@@ -15,5 +15,6 @@ class SearchResultController extends Controller
     public function showSelection() {
         return view('searchResult');
     }
+
  
 }

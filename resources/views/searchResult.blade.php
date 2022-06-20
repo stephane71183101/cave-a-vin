@@ -5,7 +5,6 @@
 @section('content')
 
 
-
         <!-- <div class="searchResults">
             <div class="container">
                 <div class="row">
