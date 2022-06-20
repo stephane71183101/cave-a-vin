@@ -47,7 +47,7 @@
 
     <div class="searchfields">
            
-                <div class="container p-3 my-3 border">
+                <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="box-flex box-flex-center">
