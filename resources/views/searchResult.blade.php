@@ -4,7 +4,9 @@
 
 @section('content')
 
-        <div class="searchResults">
+
+
+        <!-- <div class="searchResults">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
@@ -130,6 +132,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 @endsection

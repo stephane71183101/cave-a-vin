@@ -103,7 +103,6 @@ color: rgb(255, 255, 255);
     color: #C27418;
 }
 
-
 .winefont {
     color: #D31E29;
 }
@@ -152,6 +151,10 @@ color: rgb(255, 255, 255);
 }
 
 .footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
     margin-top: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
