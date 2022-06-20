@@ -7,8 +7,15 @@ use App\Models\winecollection;
 
 class SearchResultController extends Controller
 {
+    // public function showSelection() {
+    //     $categories = Category::all(['id','name']);
+    //     return view('products.create',compact('categories'));
+    // }
+
     public function showSelection() {
-        return view('searchResult');
+        $wines = winecollection::all();
+        return view('searchResult', ['winelist' => $wines]);
     }
+
  
 }
