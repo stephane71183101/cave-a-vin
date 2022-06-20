@@ -31,13 +31,13 @@
             </div>
             <div class="row headerbelow">
                 <div class="col-md-4">
-                    <p class="winefont headerabovecontent">WEIN</p>
+                    <p class="winefont headerabovecontent"><a class="winelink" href="#">WEIN</a></p>
                 </div>
                 <div class="col-md-4 border-start border-end border-dark border-2">
-                    <p class="sparklingwinefont headerabovecontent">SCHAUMWEIN</p>
+                    <p class="sparklingwinefont headerabovecontent"><a class="sparklingwinelink" href="#">SCHAUMWEIN</a></p>
                 </div>                    
                 <div class="col-md-4">
-                    <p class="spiritsfont headerabovecontent">SPIRITUOSEN</p>
+                    <p class="spiritsfont headerabovecontent"><a class="spiritslink" href="#">SPIRITUOSEN</a></p>
                 </div>
                 </div>
             </div>
@@ -177,261 +177,21 @@
                 </div>
             </form>
         </div>
-        
-        <div class="searchResults">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>        <div class="searchResults">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>        <div class="searchResults">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">        <div class="searchResults">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="container">
-                        <div class="prodcutimage">
-                        <img class="img-thumbnail" src="/img/PodrumAleksicNostalgija.jpg">
-                        </div>
-                        <div>
-                        <p class="searchResultline1">Punto Ar Cabernet Franc</p>
-                        </div>
-                        <div>
-                        <p class="searchResultline2">Argentinien | Mendosa</p>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </main>
 
+    @yield('content')
+
+    </main>
     <footer>
-        
     <div class="footer container border-top border-dark border-2">
         <div class="row">
-            <div class="col-md-4">
-                <p class="headerabovecontent1">WEIN</p>
+            <div class="col-md-6">
+                <p class="headerabovecontent"><a class="footerlinks" href="#">WEIN</a></p>
         </div>
-        <div class="col-md-4">
-            <p class="headerabovecontent">SCHAUMWEIN</p>
-        </div> 
-        <div class="col-md-4">
-                <p class="headerabovecontent3">SPIRITUOSEN</p>
-         </div>               
+        <div class="col-md-6">
+            <p class="headerabovecontent"><a class="footerlinks" href="#">SCHAUMWEIN</a></p>
+        </div>                    
         </div>
     </div>
-
     </footer>
 </body>
 </html>

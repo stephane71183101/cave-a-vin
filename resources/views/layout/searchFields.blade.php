@@ -8,10 +8,10 @@
                                 <div class="mb-3 formlabelcolor">
                                 <label for="disabledSelect" class="form-label">TYPE</label>
                                 <select id="disabledSelect" class="form-select">
-                                <option>Alle</option>
-                                <option>Wein</option>
-                                <option>Schaumwein</option>
-                                <option>Spirituosen</option>
+                                <option value="$item->type">$item->Alle</option>
+                                <option value="$item->type">$item->Wein</option>
+                                <option value="$item->type">$item->Schaumwein</option>
+                                <option value="$item->type">$item->Spirituosen</option>
                                 </select>
                                 </div>
                             </div>
