@@ -52,6 +52,7 @@
                             <div class="row">
                             <div class="col-6">
                                 <div class="mb-3 formlabelcolor">
+
                                 <label for="disabledSelect" class="form-label">TYPE</label>
                                 <select id="disabledSelect" class="form-select">
                                 <option>Alle</option>
@@ -61,6 +62,7 @@
                                 </select>
                                 </div>
                             </div>
+                            <!--Nina ende -->
                             <div class="col-6">
                             <div class="mb-3 formlabelcolor">
                                 <label for="disabledSelect" class="form-label">FARBE</label>
