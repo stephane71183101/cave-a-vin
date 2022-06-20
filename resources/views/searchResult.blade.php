@@ -5,6 +5,30 @@
 @section('content')
 
 
+<div class="searchResults">
+    <div class="container">
+        <div class="row">
+        @foreach ($winelist as $wine)
+            <div class="col-sm-4">
+                <div class="container">
+                    <div class="prodcutimage">
+                        <img class="img-thumbnail" src="/img/{{$wine->picture}}">
+                    </div>
+                    <div>
+                        <p class="searchResultline1">{{$wine->description}}</p>
+                    </div>
+                    <div>
+                        <p class="searchResultline2">{{$wine->country}} | {{$wine->region}}</p>
+                    </div>
+                </div>
+            </div>
+            @endforeach
+        </div>
+    </div>
+</div>    
+
+
+
         <!-- <div class="searchResults">
             <div class="container">
                 <div class="row">

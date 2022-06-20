@@ -13,7 +13,8 @@ class SearchResultController extends Controller
     // }
 
     public function showSelection() {
-        return view('searchResult');
+        $wines = winecollection::all();
+        return view('searchResult', ['winelist' => $wines]);
     }
 
  
