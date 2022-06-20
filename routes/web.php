@@ -6,6 +6,9 @@ use App\Http\Controllers\SearchResultController;
 
 use App\Http\Controllers\ProductPageController;
 
+use App\Http\Controllers\HomeController;
+
+
 
 /*
 |--------------------------------------------------------------------------
@@ -28,3 +31,4 @@ use App\Http\Controllers\ProductPageController;
 
 Route::get('/searchResult', [SearchResultController::class, 'showSelection']);
 Route::get('/productPage', [ProductPageController::class, 'showSelection']);
+Route::get('/home', [HomeController::class, 'showSelection']);
