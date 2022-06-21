@@ -53,14 +53,12 @@
                             <div class="box-flex box-flex-center">
                             <img class="box-raritäten" src="/img/WeinHintergrund.png">
                            
-                            <h5 class="box-caption">Center Center</h5>
-                           
-                            <p class="weltWein">RARITÄTEN</p>
+                            <h5 class="box-caption">Beste Weine</h5>
                         </div>
                         </div>
 
                         <div class="col-6">
-                            <img class="img-raritäten" src="/img/WeinHintergrund.png">  
+                            <img class="img-whisky" src="/img/WeinHintergrund.png">  
                         </div> 
                     </div>
                 </div>
@@ -68,16 +66,11 @@
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="box-flex box-flex-center">
-                            <img class="box-raritäten" src="/img/WeinHintergrund.png">
-                           
-                            <h5 class="box-caption">Center Center</h5>
-                           
-                            <p class="weltWein">RARITÄTEN</p>
+                            <img class="box-champagner" src="/img/Champagner.png">                    
                         </div>
                         </div>
-
                         <div class="col-6">
-                            <img class="img-raritäten" src="/img/WeinHintergrund.png">  
+                            <img class="img-schweiz" src="/img/Champagner.png">  
                         </div> 
                     </div>
                 </div>
