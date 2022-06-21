@@ -1,3 +1,14 @@
+# Über dieses Projekt
+
+Team: Nina und Stéphane
+
+Projekt "Online Collection": Erstellen Sie eine Laravel-Website, die die Liste Ihrer bevorzugten Sammlerstücke präsentiert und die es Ihnen ermöglicht, ausgewählte Stücke bei Bedarf zu erstellen, zu bearbeiten und zu löschen. Animieren Sie Besucher dazu, in der Detailansicht eines Sammlungsartikels einen Kommentar hinzuzufügen. Optional: Bieten Sie eine Suchfunktion an.
+
+___________________________________________________________
+
+
+##### README.md by the insallation of Laravel:
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
