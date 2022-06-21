@@ -4,6 +4,10 @@ Team: Nina und Stéphane
 
 Projekt "Online Collection": Erstellen Sie eine Laravel-Website, die die Liste Ihrer bevorzugten Sammlerstücke präsentiert und die es Ihnen ermöglicht, ausgewählte Stücke bei Bedarf zu erstellen, zu bearbeiten und zu löschen. Animieren Sie Besucher dazu, in der Detailansicht eines Sammlungsartikels einen Kommentar hinzuzufügen. Optional: Bieten Sie eine Suchfunktion an.
 
+Link zum Figma-Mockup: https://www.figma.com/file/ta1EkC4lI285F4GN6mxbAU/La-cave-%C3%A0-vin-d'Emma-B.-team-library?node-id=0%3A1
+
+Link zum Data-Model/-Schema: https://drive.google.com/file/d/1NayrTlAcHEe1GUhVhjkOC28r0B0N-dZW/view?usp=sharing
+
 ___________________________________________________________
 
 
